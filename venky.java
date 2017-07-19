@@ -6,7 +6,7 @@ public class Java Program
 		system.out.print("Enter two numbers")
 
 			a=30;
-		        b=70;
+		        b=60;
                         sum= a+b;
 			
 			 System.out.print("sum of the Entered two numbwers " +sum)
