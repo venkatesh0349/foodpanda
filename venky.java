@@ -5,7 +5,7 @@ public class Java Program
 		int a,b,sum;
 		system.out.print("Enter two numbers")
 
-			a=40;
+			a=80;
 		        b=60;
                         sum= a+b;
 			
