@@ -5,9 +5,10 @@ public class Java Program
 		int a,b,sum;
 		system.out.print("Enter two numbers")
 
+
 			
 	                a=10:
-		        b=90;
+		        b=50;
                         sum= a+b;
 			
 			 System.out.print("sum of the Entered two numbwers " +sum)
