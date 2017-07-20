@@ -7,8 +7,11 @@ public class Java Program
 
 
 			
-	                a=10:
-		        b=50;
+	                
+		        a=50;
+			b=20;
+			
+
                         sum= a+b;
 			
 			 System.out.print("sum of the Entered two numbwers " +sum)
