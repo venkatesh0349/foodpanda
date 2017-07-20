@@ -4,15 +4,12 @@ public class Java Program
 {
 		int a,b,sum;
 		system.out.print("Enter two numbers")
-
-
 			
 	                
 		        a=50;
-			b=20;
-			
-
-                        sum= a+b;
+			b=20
+				
+		        sum= a+b;
 			
 			 System.out.print("sum of the Entered two numbwers " +sum)
 	}
